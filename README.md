@@ -36,4 +36,4 @@ For more information, visit the repository [here](link_to_repo).
 
 
 ## Contact
-If you have any questions or opportunities, please don't hesitate to drop me an email or message me via LinkedIn!
+If you have any questions or opportunities, please don't hesitate to drop me an [email](email) or message me via [LinkedIn](linkedin)!

@@ -14,7 +14,7 @@ Currently, I'm working on a few small games from a beginner Unreal course. Comin
 In the future, I would also like to make a MERN stack app that I feel confident adding to my portfolio. While I feel comfortable making web apps, they're often not as efficient or well-written as they could be. Learning to optimise my code for faster load times would boost my confidence in that domain.
 
 ## CV
-For further details about my skills and accomplishments, you can download my CV [here](link).
+For further details about my skills and accomplishments, you can download my current CV [here](https://drive.google.com/file/d/1XZOdTuCq7lw514k8ORTzD6YmuI40HaN_/view?usp=sharing).
 
 ## Projects
 ### Object Assault
@@ -25,15 +25,15 @@ While designing my own level, I picked up crucial skills, including:
 - using the world blueprint to create event listeners
 - creating custom C++ code for actors and manipulating it with Unreal's blueprints
 
-For more information, visit the repository [here](link_to_repo).
+For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectObstacleAssault).
 
 ### Warehouse Wreckage
 Warehouse Wreckage is the name of the first module in the course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" by GamedevTV. The premise is simple: knock over every object in the room with a limited supply of ammunition. However, the course does not implement any successful end condition; the player can only _lose_. My next goal is to end the level successfully when all the objects have been knocked down.
 
 I learned the fundamentals of Unreal's Blueprints in this module, and I became much more confident navigating Unreal.
 
-For more information, visit the repository [here](link_to_repo).
+For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectWarehouseWreckage).
 
 
 ## Contact
-If you have any questions or opportunities, please don't hesitate to drop me an [email](email) or message me via [LinkedIn](linkedin)!
+If you have any questions or opportunities, please don't hesitate to drop me an [email](xaqatkins@virginmedia.com) or message me via [LinkedIn](https://www.linkedin.com/in/xaqatkins/)!

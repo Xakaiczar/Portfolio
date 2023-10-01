@@ -28,7 +28,7 @@ While designing my own level, I picked up crucial skills, including:
 For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectObstacleAssault).
 
 ### Warehouse Wreckage
-Warehouse Wreckage is the name of the first module in the course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" by GamedevTV. The premise is simple: knock over every object in the room with a limited supply of ammunition. However, the course does not implement any successful end condition; the player can only _lose_. My next goal is to end the level successfully when all the objects have been knocked down.
+Warehouse Wreckage is the name of the first module in the course "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games" by GamedevTV. The premise is simple: knock over every object in the room with a limited supply of ammunition. However, the course does not implement any successful end condition; the player can only _lose_. I added a win condition myself, properly telegraphed that information to the player, and - to challenge myself - I did it all using Blueprints.
 
 I learned the fundamentals of Unreal's Blueprints in this module, and I became much more confident navigating Unreal.
 

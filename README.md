@@ -1,11 +1,11 @@
 # Portfolio
-- [About Me](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#about-me)
-- [CV](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#cv)
-- [Projects](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#projects)
-  - [Object Assault](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#object-assault)
-  - [Warehouse Wreckage](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#warehouse-wreckage)
-  - [Coming Soon!](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#coming-soon)
-- [Contact](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#contact)
+- [About Me](https://github.com/Xakaiczar/Portfolio/main/README.md#about-me)
+- [CV](https://github.com/Xakaiczar/Portfolio/main/README.md#cv)
+- [Projects](https://github.com/Xakaiczar/Portfolio/main/README.md#projects)
+  - [Object Assault](https://github.com/Xakaiczar/Portfolio/main/README.md#object-assault)
+  - [Warehouse Wreckage](https://github.com/Xakaiczar/Portfolio/main/README.md#warehouse-wreckage)
+  - [Coming Soon!](https://github.com/Xakaiczar/Portfolio/main/README.md#coming-soon)
+- [Contact](https://github.com/Xakaiczar/Portfolio/main/README.md#contact)
 
 ## About Me
 This portfolio covers some of my work as an independent game developer. Most of my experience is invested in Unity and C#, but I have recently begun learning Unreal Engine 5 and C++. While all my work has been purely educational, I believe it serves as a testament to my ability to learn new skills quickly and efficiently.

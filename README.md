@@ -4,6 +4,7 @@
 - [Projects](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#projects)
   - [Object Assault](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#object-assault)
   - [Warehouse Wreckage](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#warehouse-wreckage)
+  - [Coming Soon!](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#coming-soon)
 - [Contact](https://github.com/Xakaiczar/Portfolio/edit/main/README.md#contact)
 
 ## About Me

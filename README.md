@@ -2,8 +2,8 @@
 - [About Me](#about-me)
 - [CV](#cv)
 - [Projects](#projects)
-  - [Object Assault](#object-assault)
   - [Warehouse Wreckage](#warehouse-wreckage)
+  - [Obstacle Assault](#obstacle-assault)
   - [Coming Soon!](#coming-soon)
 - [Contact](#contact)
 

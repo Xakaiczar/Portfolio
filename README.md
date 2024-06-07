@@ -6,7 +6,7 @@
   - [Unreal](#unreal)
     - [Warehouse Wreckage](#warehouse-wreckage)
     - [Obstacle Assault](#obstacle-assault)
-    - [Coming Soon!](#coming-soon)
+    - [Crypt Raider](#crypt-raider)
   - [Unity](#unity)
     - [X-Company](#x-company)
 
@@ -31,7 +31,7 @@ This section is divided into distinct categories for easy access to the appropri
 - [Unreal](#unreal)
   - [Warehouse Wreckage](#warehouse-wreckage)
   - [Obstacle Assault](#obstacle-assault)
-  - [Coming Soon!](#coming-soon)
+  - [Crypt Raider](#crypt-raider)
 - [Unity](#unity)
   - [X-Company](#x-company)
 
@@ -53,7 +53,7 @@ While designing my own level, I picked up crucial skills, including:
 
 For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectObstacleAssault).
 
-### Coming Soon!
+### Crypt Raider
 _Project still in progress_
 
 I've already started work on my next Unreal project! It's very early in development, but this section of the course is a lot longer, and covers a lot of content from both Unreal and C++. I'm hoping this one will give me more freedom to flex my C++ knowledge.

@@ -13,7 +13,7 @@
 ## About Me
 This portfolio covers some of my work as an independent game developer. Most of my experience is invested in Unity and C#, but I have recently begun learning Unreal Engine 5 and C++. While all my work has been purely educational, I believe it serves as a testament to my ability to learn new skills quickly and efficiently.
 
-Most of my projects are still in production to some degree (as is this janky prototype portfolio). I wasn't expecting to apply for anything so soon, but I couldn't pass up an opportunity to work for TT again! So apologies if my projects are a bit underwhelming or unfinished. They're not really here to be impressive however, they're available as proof that I can program to a junior level (hopefully!).
+Most of my projects are still in production to some degree (as is this janky prototype portfolio) and will likely be worked on in real time. I wasn't expecting to apply for anything so soon, but I couldn't pass up an opportunity to work for TT again! So apologies if my projects are a bit underwhelming or unfinished. They're not really here to be impressive however, they're available as proof that I can program to a junior level (hopefully!).
 
 Currently, I'm working on a few small games from a beginner Unreal course. Coming from a Unity-based game development background, the engine - albeit similar - is quite new to me. Beyond the course, I'd like to expand some of the projects I have completed to test myself and my understanding of the engine. I'm also working on a Unity game that was originally going to be my main project. However, as this job requires C++ and Unreal experience, I have put it on the backburner for now and prioritised my Unreal projects. I will still invest time in it if and when I'm able.
 

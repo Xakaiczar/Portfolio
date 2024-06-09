@@ -5,7 +5,6 @@
 - [Projects](#projects)
   - [Unreal](#unreal)
     - [Warehouse Wreckage](#warehouse-wreckage)
-    - [Obstacle Assault](#obstacle-assault)
     - [Crypt Raider](#crypt-raider)
   - [Unity](#unity)
     - [X-Company](#x-company)
@@ -30,7 +29,6 @@ This section is divided into distinct categories for easy access to the appropri
 
 - [Unreal](#unreal)
   - [Warehouse Wreckage](#warehouse-wreckage)
-  - [Obstacle Assault](#obstacle-assault)
   - [Crypt Raider](#crypt-raider)
 - [Unity](#unity)
   - [X-Company](#x-company)
@@ -42,16 +40,6 @@ Warehouse Wreckage is the name of the first module in the course _Unreal Engine 
 I learned the fundamentals of Unreal's Blueprints in this module, and I became much more confident navigating Unreal.
 
 For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectWarehouseWreckage).
-
-### Obstacle Assault
-Obstacle Assault is the name of the second module in the course _Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games_ by GameDevTV. The original core gameplay proposed in this module revolved around completing an obstacle course akin to Fall Guys, but in a singleplayer context. However, as Fall Guys' biggest selling point is its large playerbase, the project played a bit more like a platformer than the gameshow-inspired hit. In the end, I decided it would be more appropriate to create a puzzle platformer style experience for my singleplayer sample level.
-
-While designing my own level, I picked up crucial skills, including:
-
-- using the world blueprint to create event listeners
-- creating custom C++ code for actors and manipulating it with Unreal's blueprints
-
-For more information, visit the repository [here](https://github.com/Xakaiczar/ProjectObstacleAssault).
 
 ### Crypt Raider
 I've already started work on my next Unreal project! It's very early in development, but this section of the course is a lot longer, and covers a lot of content from both Unreal and C++. I'm hoping this one will give me more freedom to flex my C++ knowledge.
